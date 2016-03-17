@@ -7,3 +7,4 @@ Our projects
 Places to take ideas from
 -------------------------
 - [NYU javascript course using Githubclassroom as platform](http://advanced-js.github.io/syllabus/)
+- [Learning Content Manager based on static pages ](https://github.com/elementsLMS/elementsLMS.github.io) (aka **Jekyll**)
